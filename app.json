@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "eung-todo",
-    "description": "This project is really great.",
+    "name": "Eung To Do",
+    "description": "Eung To Do App made with React Native",
     "slug": "eung-todo",
     "privacy": "public",
     "sdkVersion": "24.0.0",
